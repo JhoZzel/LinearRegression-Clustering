@@ -1,0 +1,15 @@
+﻿  k_means_PF.cpp
+C:\DevSoftware\vcpkg\installed\x64-windows\include\mlpack\core\math\random.hpp(50,34): warning C4267: 'argumento': conversión de 'size_t' a 'const arma::arma_rng::seed_type'; posible pérdida de datos
+C:\DevSoftware\vcpkg\installed\x64-windows\include\mlpack\core\math\random.hpp(69,32): warning C4267: 'argumento': conversión de 'size_t' a 'const arma::arma_rng::seed_type'; posible pérdida de datos
+C:\DevSoftware\vcpkg\installed\x64-windows\include\mlpack\core\math\random.hpp(76,32): warning C4267: 'argumento': conversión de 'size_t' a 'const arma::arma_rng::seed_type'; posible pérdida de datos
+C:\DevSoftware\vcpkg\installed\x64-windows\include\mlpack\core\math\random.hpp(167,56): warning C4267: 'argumento': conversión de 'size_t' a 'const int'; posible pérdida de datos
+C:\Users\Joel Chavez\Desktop\proy formativo\k_means_PF\k_means_PF.cpp(33,18): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\Joel Chavez\Desktop\proy formativo\k_means_PF\k_means_PF.cpp(33,18): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\Joel Chavez\Desktop\proy formativo\k_means_PF\k_means_PF.cpp(33,22): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\Joel Chavez\Desktop\proy formativo\k_means_PF\k_means_PF.cpp(33,22): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\Joel Chavez\Desktop\proy formativo\k_means_PF\k_means_PF.cpp(33,26): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\Joel Chavez\Desktop\proy formativo\k_means_PF\k_means_PF.cpp(33,26): warning C4309: 'inicializando': truncamiento de valor constante
+C:\Users\Joel Chavez\Desktop\proy formativo\k_means_PF\k_means_PF.cpp(33,30): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+C:\Users\Joel Chavez\Desktop\proy formativo\k_means_PF\k_means_PF.cpp(33,30): warning C4309: 'inicializando': truncamiento de valor constante
+     Creando biblioteca C:\Users\Joel Chavez\Desktop\proy formativo\k_means_PF\x64\Debug\k_means_PF.lib y objeto C:\Users\Joel Chavez\Desktop\proy formativo\k_means_PF\x64\Debug\k_means_PF.exp
+  k_means_PF.vcxproj -> C:\Users\Joel Chavez\Desktop\proy formativo\k_means_PF\x64\Debug\k_means_PF.exe
